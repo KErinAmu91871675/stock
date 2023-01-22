@@ -10,6 +10,9 @@ gem "importmap-rails"
 gem "turbo-rails"
 gem "stimulus-rails"
 gem "jbuilder"
+gem 'bootstrap', '~> 5.2', '>= 5.2.3'
+gem 'jquery-rails'
+
 gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
 gem "bootsnap", require: false
 group :development, :test do
