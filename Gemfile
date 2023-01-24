@@ -13,6 +13,9 @@ gem "jbuilder"
 gem 'bootstrap', '~> 5.2', '>= 5.2.3'
 gem 'jquery-rails'
 
+gem 'stock_quote', '~> 3.0'
+
+
 gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
 gem "bootsnap", require: false
 group :development, :test do
